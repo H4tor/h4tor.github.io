@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
 source "https://rubygems.org"
-gem "jekyll-theme-leaf"
+
 gemspec
+
+gem "jekyll-theme-leaf"
